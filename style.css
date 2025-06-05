@@ -1,4 +1,7 @@
-
+h1{
+    font-size: 25px;
+    font-family: Arial;
+}
 
 .hidden-content { 
     display: none; 
