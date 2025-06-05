@@ -1,0 +1,46 @@
+
+.about_heading
+{ 
+    color: navy;
+ }
+
+.hidden-content { 
+    display: none; 
+} h2:hover + ul { display: block; }
+
+.profile_pic{
+    border-radius: 150px;
+    border-width: 10px;
+    border-color: gray;
+    margin: 25px;
+}
+.main_container{
+    margin: 10px;
+    background-color: rgb(235, 205, 246);
+    font-family: Arial, sans-serif; 
+    /* margin: 20px; */
+}
+.about_heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    color: black;
+}
+.about_section{
+    width: 100vw;
+    margin: 25px;
+    height: 55vh;
+    background-color:azure;
+    background-size: cover;
+    border-radius: 30px;
+}
+.description_section{
+    width: 100vw;
+    margin: 25px;
+    /* height: 50vh; */
+    /* background-color: rgb(196, 241, 254); */
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.body_section{
+    padding: 20px;
+}
